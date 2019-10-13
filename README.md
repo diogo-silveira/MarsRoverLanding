@@ -23,8 +23,8 @@ MMRMMRMRRM
 
 # Technology Solution
 
-> .NET Core 2.2
-> SOLID
-> DDD
-> TDD
-> Unit Testing
+.NET Core 2.2
+SOLID
+DDD
+TDD
+Unit Testing
